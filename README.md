@@ -26,7 +26,5 @@ The data used in this project is collected from various sources, primarily from 
 * Business Problem Solving: Provides a comprehensive approach to solving real-world logistics and supply chain issues using data analytics
 
 **Screenshots ad Demos
-Show what the dashboard is look like : https://github.com/YASHWANTH2227/Logistics-Supply-Chain-Dashboard/blob/main/Logistics%20%26%20Supply%20Chain%20Dashboard.JPG.png
-
-
-
+Show what the dashboard is look like : [Alt text](https://github.com/username/repo/assets/image.png)
+Example : [Dashboard Preview](
