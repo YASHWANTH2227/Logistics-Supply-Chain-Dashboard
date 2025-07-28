@@ -27,4 +27,4 @@ The data used in this project is collected from various sources, primarily from 
 
 **Screenshots ad Demos
 Show what the dashboard is look like : [Alt text](https://github.com/username/repo/assets/image.png)
-Example : [Dashboard Preview](
+Example : [Dashboard Preview](https://github.com/YASHWANTH2227/Logistics-Supply-Chain-Dashboard/blob/main/Logistics%20%26%20Supply%20Chain%20Dashboard.JPG.png)
